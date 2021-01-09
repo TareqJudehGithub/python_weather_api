@@ -1,0 +1,3 @@
+
+Extension (or plug-in) Json Parser by Godwin Joseph, enables us
+to view json in a very nice, neat format.
