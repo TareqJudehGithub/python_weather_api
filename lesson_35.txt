@@ -1,3 +1,16 @@
 
 Extension (or plug-in) Json Parser by Godwin Joseph, enables us
 to view json in a very nice, neat format.
+
+
+Environment Variables
+    Convenience
+        Less code management.
+    Security
+        Store API, token keys to keep them safe.
+
+    To store a key in environment variables, follow the below steps:
+        1. In Terminal: $ export KEY_NAME=KEY_CODE
+            Example: export OPEN_WEATHER_API=1J1231N23KSD9
+            to call environment variables, run: $ env
+
